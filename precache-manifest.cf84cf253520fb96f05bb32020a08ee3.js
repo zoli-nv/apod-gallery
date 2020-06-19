@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a75a01f65842107d6ce2ac155625a970",
+    "revision": "972f27f57822b072b7463a3c8701c04d",
     "url": "/apod-gallery/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/apod-gallery/static/css/2.75a7fdd2.chunk.css"
   },
   {
-    "revision": "b8ad47607fce0b4c4d6e",
-    "url": "/apod-gallery/static/css/main.1279e5b3.chunk.css"
+    "revision": "c88457a23384323680c5",
+    "url": "/apod-gallery/static/css/main.d91dc1ca.chunk.css"
   },
   {
     "revision": "dd8bbbcea847f51b9878",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/apod-gallery/static/js/2.a5d013a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b8ad47607fce0b4c4d6e",
+    "revision": "c88457a23384323680c5",
     "url": "/apod-gallery/static/js/main.e97d5618.chunk.js"
   },
   {
