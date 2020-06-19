@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/apod-gallery/static/css/main.1279e5b3.chunk.css",
+    "main.js": "/apod-gallery/static/js/main.e97d5618.chunk.js",
+    "main.js.map": "/apod-gallery/static/js/main.e97d5618.chunk.js.map",
+    "runtime-main.js": "/apod-gallery/static/js/runtime-main.fe4ad272.js",
+    "runtime-main.js.map": "/apod-gallery/static/js/runtime-main.fe4ad272.js.map",
+    "static/css/2.75a7fdd2.chunk.css": "/apod-gallery/static/css/2.75a7fdd2.chunk.css",
+    "static/js/2.a5d013a0.chunk.js": "/apod-gallery/static/js/2.a5d013a0.chunk.js",
+    "static/js/2.a5d013a0.chunk.js.map": "/apod-gallery/static/js/2.a5d013a0.chunk.js.map",
+    "index.html": "/apod-gallery/index.html",
+    "precache-manifest.3b49b2290c0d99ef58c7a6271141983a.js": "/apod-gallery/precache-manifest.3b49b2290c0d99ef58c7a6271141983a.js",
+    "service-worker.js": "/apod-gallery/service-worker.js",
+    "static/css/2.75a7fdd2.chunk.css.map": "/apod-gallery/static/css/2.75a7fdd2.chunk.css.map",
+    "static/css/main.1279e5b3.chunk.css.map": "/apod-gallery/static/css/main.1279e5b3.chunk.css.map",
+    "static/js/2.a5d013a0.chunk.js.LICENSE.txt": "/apod-gallery/static/js/2.a5d013a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe4ad272.js",
+    "static/css/2.75a7fdd2.chunk.css",
+    "static/js/2.a5d013a0.chunk.js",
+    "static/css/main.1279e5b3.chunk.css",
+    "static/js/main.e97d5618.chunk.js"
+  ]
+}
